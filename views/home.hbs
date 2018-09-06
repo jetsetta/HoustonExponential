@@ -1,0 +1,67 @@
+{{> header}}
+
+<div class="welcome-container">
+  
+  <div class="welcome-div"></div>
+
+  <div class="overlay">
+    <div>
+      <h1><span class="font-weight-bold">Explore</span> Houston Start-Ups</h1>
+    </div>
+  </div>
+</div>
+<div id="results" />
+<div class="whoweare-container">
+  <h2 class="whoweare-title">Who We Are</h2>
+  <div class="whoweare text-center">
+    <h4>We wanted to create a comprehensive database of Houston start-ups where users can add and update their business and
+      allow others to search and review.</h4>
+    <a type="button" href="/users/register" class="btn btn-blue mx-auto">Join Us Now!</a></div>
+</div>
+
+<div class="container-fluid carousel-wrapper">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner row w-100 mx-auto">
+      {{#each companies}}
+      <div class="carousel-item col-md-4">
+        <div class="card company-cards">
+          <div class="company-cards-img"><img class="card-img-top" src="{{logo}}" alt="{{name}} logo"></div>
+          <div class="card-body company-cards-text">
+            <h5 class="card-title">{{name}}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">{{description}}</h6>
+            <div class="text-center">
+              <form action="/companies/companyprofile" method="POST">
+                <input name="company_id" hidden value="{{id}}" />
+                <button class="btn btn-blue mx-auto">More Info</button>
+              </form>
+            </div>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">
+
+              <div class="float-left">
+                Founded {{foundedDate}}
+              </div>
+              <div class="float-right">
+                {{category}}
+              </div>
+
+            </small>
+          </div>
+        </div>
+      </div>
+      {{/each}}
+    </div>
+    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+
+{{> footer}}
+<script src="/javascript/home.js"></script>
