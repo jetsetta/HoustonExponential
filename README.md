@@ -1,4 +1,4 @@
-# HXProject
+# HoustonExponential
 A Company and Investor Database for Startups in the Houston-Area
 Live Demo
 
