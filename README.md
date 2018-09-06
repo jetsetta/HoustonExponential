@@ -48,6 +48,7 @@ This is a collaborative project which sought to create a comprehensive database 
 * [Molly Wood](https://github.com/mollywood)
 * [Sean Johnson-Sippial](https://github.com/jetsetta)
 * [Shawn Benny](https://github.com/sbenn9210)
+* [James Sewell] (https://github.com/jamesjsewell)
 
 ## Screenshots
 
