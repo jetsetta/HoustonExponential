@@ -51,11 +51,17 @@ This is a collaborative project which sought to create a comprehensive database 
 * [James Sewell](https://github.com/jamesjsewell)
 
 ## Screenshots
+Landing Page
 ![Landing Page](https://i.imgur.com/xNRb10J.png)
+Sign In
 ![Login](https://i.imgur.com/zx670ty.png)
+Create a Company Profile
 ![Create Company](https://i.imgur.com/FNcyB0f.png)
+Investor Profile
 ![Investor Profile](https://i.imgur.com/sGi4yYn.png)
+Filter Investment Range
 ![Investment Range](https://i.imgur.com/d1qcQqy.png)
+View Investor Profile
 ![Investor Profile](https://i.imgur.com/xIxzZFw.png)
 
 
