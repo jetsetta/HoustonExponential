@@ -51,6 +51,7 @@ This is a collaborative project which sought to create a comprehensive database 
 * [James Sewell](https://github.com/jamesjsewell)
 
 ## Screenshots
+![Landing Page](https://i.imgur.com/xNRb10J.png)
 
 ## Github Link
 [HX Project](https://github.com/mollywood/HXProject)
