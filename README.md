@@ -52,6 +52,12 @@ This is a collaborative project which sought to create a comprehensive database 
 
 ## Screenshots
 ![Landing Page](https://i.imgur.com/xNRb10J.png)
+![Login](https://i.imgur.com/zx670ty.png)
+![Create Company](https://i.imgur.com/FNcyB0f.png)
+![Investor Profile](https://i.imgur.com/sGi4yYn.png)
+![Investment Range](https://i.imgur.com/d1qcQqy.png)
+![Investor Profile](https://i.imgur.com/xIxzZFw.png)
+
 
 ## Github Link
 [HX Project](https://github.com/mollywood/HXProject)
