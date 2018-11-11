@@ -1,6 +1,7 @@
 # HoustonExponential
 A Company and Investor Database for Startups in the Houston-Area
-* [Live Demo](https://youtu.be/Q9B6jB8Tanw)
+* [YouTube Demo](https://youtu.be/Q9B6jB8Tanw)
+* [Live Demo](https://houston-exponential-demo.herokuapp.com/)
 
 
 ## Contents
