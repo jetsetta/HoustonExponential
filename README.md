@@ -1,6 +1,7 @@
 # HoustonExponential
 A Company and Investor Database for Startups in the Houston-Area
-Live Demo
+* [Live Demo](https://youtu.be/Q9B6jB8Tanw)
+
 
 ## Contents
 * [What It Is](https://github.com/mollywood/HXProject/blob/master/README.md#what-it-is)
